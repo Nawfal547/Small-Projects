@@ -1,8 +1,7 @@
 """Exercise 3 Wordle!""" 
 # Docstring for documentation
 
-__author__ = "730477290" 
-# PID for identification
+
 
 
 def contains_char(the_word: str, single_word: str) -> bool:
